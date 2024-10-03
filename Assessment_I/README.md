@@ -9,11 +9,10 @@ Program ini digunakan untuk menghasilkan deret aritmatika berdasarkan jumlah bil
 ## Cara Menjalankan
 
 1. Pastikan Python sudah terinstall di komputer Anda.
-2. Simpan kode program dalam file Python (misalnya `deret_aritmatika.py`).
-3. Buka terminal atau command prompt, kemudian jalankan program dengan perintah berikut:
+2. Buka terminal atau command prompt, kemudian jalankan program dengan perintah berikut:
 
    ```bash
-   python deret_aritmatika.py
+   python arithmetics.py
 
 ## Cara Kerja Program
 
